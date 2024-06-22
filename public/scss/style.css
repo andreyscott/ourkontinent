@@ -259,6 +259,9 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
     font-size: 3.25rem;
     line-height: 1.2;
 }
+pr-2 {
+    padding-right: 0.9rem;
+}
 .no-spacing {
     letter-spacing: 0;
 }
@@ -983,7 +986,7 @@ ul.dropdown-menu li {
     font-size: 20px;
 }
 .cta-block {
-    background: url(../images/bg/bg-3.jpg)fixed 50%;
+    background: url(../images/New/IMG-20240620-WA0014.jpg)fixed 50%;
     background-size: cover;
     padding: 120px 0;
 }
