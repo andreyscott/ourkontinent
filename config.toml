@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://distracted-bhabha-10e5b6.netlify.com/"
+baseURL = "/"
 languageCode = "en-us"
 title = "OurKontinent | Preserving Africa's Cultural Heritage"
 theme = "wishfund-hugo"
