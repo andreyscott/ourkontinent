@@ -134,18 +134,18 @@ googleAnalitycsID = "Your ID"
 
   #################### social icon ######################################
   [[params.social]]
-  name = "Facebook"
-  icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
-  link = "#"
+  name = "linkedin"
+  icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+  link = "https://www.linkedin.com/company/ourkontinent/"
   
   [[params.social]]
   name = "Twitter"
-  icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+  icon = "ti-instagram" # themify icon pack https://themify.me/themify-icons
   link = "#"
   
   [[params.social]]
   name = "Vimeo"
-  icon = "ti-vimeo-alt" # themify icon pack https://themify.me/themify-icons
+  icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
   link = "#"
   
   [[params.social]]
