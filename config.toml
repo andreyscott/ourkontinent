@@ -139,14 +139,14 @@ googleAnalitycsID = "Your ID"
   link = "https://www.linkedin.com/company/ourkontinent/"
   
   [[params.social]]
-  name = "Twitter"
+  name = "Instagram"
   icon = "ti-instagram" # themify icon pack https://themify.me/themify-icons
-  link = "#"
+  link = "https://www.instagram.com/ourkontinent/" 
   
   [[params.social]]
-  name = "Vimeo"
+  name = "Facebook"
   icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
-  link = "#"
+  link = "https://www.facebook.com/ourkontinent/"
   
   [[params.social]]
   name = "Github"
